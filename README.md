@@ -1,0 +1,3 @@
+# Python Function with Uncommon Error in Conditional Logic
+
+This repository demonstrates a Python function containing a subtle error in conditional logic that may lead to unexpected behavior. The function `function_with_uncommon_error` intends to handle division by zero but inadvertently produces an incorrect result when both inputs are zero. The solution shows how to fix this by properly handling all cases, including when both inputs are zero.
